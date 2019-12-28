@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/logigrafika/static/css/main.c49f564f.chunk.css",
+    "main.js": "/logigrafika/static/js/main.425cf962.chunk.js",
+    "main.js.map": "/logigrafika/static/js/main.425cf962.chunk.js.map",
+    "runtime-main.js": "/logigrafika/static/js/runtime-main.5fd55e16.js",
+    "runtime-main.js.map": "/logigrafika/static/js/runtime-main.5fd55e16.js.map",
+    "static/js/2.79ff43b9.chunk.js": "/logigrafika/static/js/2.79ff43b9.chunk.js",
+    "static/js/2.79ff43b9.chunk.js.map": "/logigrafika/static/js/2.79ff43b9.chunk.js.map",
+    "index.html": "/logigrafika/index.html",
+    "precache-manifest.4563e64efd4017eee224bf57c6638a20.js": "/logigrafika/precache-manifest.4563e64efd4017eee224bf57c6638a20.js",
+    "service-worker.js": "/logigrafika/service-worker.js",
+    "static/css/main.c49f564f.chunk.css.map": "/logigrafika/static/css/main.c49f564f.chunk.css.map",
+    "static/js/2.79ff43b9.chunk.js.LICENSE": "/logigrafika/static/js/2.79ff43b9.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fd55e16.js",
+    "static/js/2.79ff43b9.chunk.js",
+    "static/css/main.c49f564f.chunk.css",
+    "static/js/main.425cf962.chunk.js"
+  ]
+}
