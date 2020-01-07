@@ -54,11 +54,6 @@ class App extends Component<{}, AppState> {
     return (
       <div
         className="App"
-        style={
-          {
-            // backgroundColor: 'lightgrey'
-          }
-        }
       >
         <Login authCallback={this.authCallback} />
         <h1>Logigrafika pontverseny</h1>
